@@ -18,6 +18,6 @@ export default {
 
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
-  padding: 20px;
+  padding: 0 20px;
 }
 </style>
